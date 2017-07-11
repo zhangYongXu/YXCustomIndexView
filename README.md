@@ -6,4 +6,5 @@
 
         3，YXTableViewIndexView添加点击和拖拽手势，当手指在YXTableViewIndexView上滑动和点击时显示浮动VIew，并显示当前索引字符，手势完成时影藏浮动View。
         
-        效果:![image](https://github.com/zhangYongXu/YXCustomIndexView/blob/master/Untitled.gif)
+        效果: 
+        ![image](https://github.com/zhangYongXu/YXCustomIndexView/blob/master/Untitled.gif)
